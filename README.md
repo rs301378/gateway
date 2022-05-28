@@ -1,1 +1,1 @@
-# Yocto
+# Gateway
